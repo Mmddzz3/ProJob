@@ -4,5 +4,6 @@
 -  **Part One**:
     - Explored the Website
     - I searched for Software Developer jobs in Australia.
-    - Deciphered the Information in URL : https://www.monster.com/jobs/search/?q=Software-Developer&where=Australia
+    - Deciphered the information from URL : https://www.monster.com/jobs/search/?q=Software-Developer&where=Australia
+    - Inspected the site using *_Developer Tools_*.
 
