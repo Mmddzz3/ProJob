@@ -12,6 +12,6 @@
      - Parsed HTML Code using Beautiful Soup.
      - Since Beautiful Soup is a Python library for parsing structured data.
 - **_Results_**:
-     ![](Images/Job1.PNG)
-     ![](Images/Job2.PNG)
-     ![](Images/Job3.PNG)
+    - ![](Images/Job1.PNG)
+    - ![](Images/Job2.PNG)
+    - ![](Images/Job3.PNG)
