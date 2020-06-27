@@ -6,4 +6,7 @@
     - I searched for Software Developer jobs in Australia.
     - Deciphered the information from URL : https://www.monster.com/jobs/search/?q=Software-Developer&where=Australia
     - Inspected the site using *_Developer Tools_*.
-
+- **Part Two** :
+    - Scraped HTML Content from the page.
+- **Part Three** : 
+     - Parsed HTML Code using Beautiful Soup.
