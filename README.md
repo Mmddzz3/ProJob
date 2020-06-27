@@ -10,3 +10,4 @@
     - Scraped HTML Content from the page.
 - **Part Three** : 
      - Parsed HTML Code using Beautiful Soup.
+     - Since Beautiful Soup is a Python library for parsing structured data.
